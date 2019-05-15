@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(intent);
             }
         });
-        //this button we need to EXIT from app
+        //this button we need to EXIT from app.
         btnExit=(Button)findViewById(R.id.button2);
         btnExit.setOnClickListener(new View.OnClickListener() {
             @Override

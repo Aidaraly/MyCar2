@@ -14,7 +14,7 @@ public class cal2 extends AppCompatActivity {
         setContentView(R.layout.activity_cal2);
     }
     public void onClick(View v){
-        //Main functions
+        //Main functions.
         EditText obj1 = (EditText)findViewById(R.id.num1);
         EditText obj2 = (EditText)findViewById(R.id.num2);
         EditText obj3 = (EditText)findViewById(R.id.num3);
