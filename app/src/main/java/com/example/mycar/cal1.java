@@ -15,6 +15,7 @@ public class cal1 extends AppCompatActivity {
 
     }
     public void onClick(View v){
+        //Main functions
         EditText obj1 = (EditText)findViewById(R.id.num1);
         EditText obj2 = (EditText)findViewById(R.id.num2);
         EditText obj3 = (EditText)findViewById(R.id.num3);
