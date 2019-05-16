@@ -13,7 +13,7 @@
         android:layout_height="94dp"
         android:layout_marginTop="94dp"
         android:layout_marginBottom="111dp"
-        android:background="#03A9F4"
+        android:background="#86E41E"
         android:text="START"
         android:textSize="25dp"
         app:layout_constraintBottom_toTopOf="@+id/button4"
