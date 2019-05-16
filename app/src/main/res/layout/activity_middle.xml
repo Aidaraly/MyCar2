@@ -14,7 +14,7 @@
         android:layout_marginStart="71dp"
         android:layout_marginTop="198dp"
         android:layout_marginBottom="139dp"
-        android:background="#FFEB3B"
+        android:background="#9C27B0"
         android:text="1st Calculation"
         android:textSize="20dp"
         app:layout_constraintBottom_toTopOf="@+id/button5"
