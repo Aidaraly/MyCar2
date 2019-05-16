@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(intent);
             }
         });
-        //This button we need to open information about app.
+        //This button we need to open information about   app.
         btnAbout=(Button)findViewById(R.id.button4);
         btnAbout.setOnClickListener(new View.OnClickListener() {
             @Override
